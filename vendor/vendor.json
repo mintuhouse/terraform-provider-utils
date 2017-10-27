@@ -227,6 +227,13 @@
 			"revisionTime": "2017-10-21T01:53:42Z"
 		},
 		{
+			"checksumSHA1": "/5cvgU+J4l7EhMXTK76KaCAfOuU=",
+			"origin": "github.com/hashicorp/terraform/vendor/github.com/davecgh/go-spew/spew",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "47c45788bc07e186b130d024084acd50e5d7268c",
+			"revisionTime": "2017-10-21T01:53:42Z"
+		},
+		{
 			"checksumSHA1": "1K+xrZ1PBez190iGt5OnMtGdih4=",
 			"origin": "github.com/hashicorp/terraform/vendor/github.com/go-ini/ini",
 			"path": "github.com/go-ini/ini",
@@ -458,6 +465,13 @@
 			"revisionTime": "2017-10-21T01:53:42Z"
 		},
 		{
+			"checksumSHA1": "vt+P9D2yWDO3gdvdgCzwqunlhxU=",
+			"origin": "github.com/hashicorp/terraform/vendor/github.com/hashicorp/logutils",
+			"path": "github.com/hashicorp/logutils",
+			"revision": "47c45788bc07e186b130d024084acd50e5d7268c",
+			"revisionTime": "2017-10-21T01:53:42Z"
+		},
+		{
 			"checksumSHA1": "PYA6SjuH3VLiKEn8WDHjh4t53f8=",
 			"path": "github.com/hashicorp/terraform/config",
 			"revision": "47c45788bc07e186b130d024084acd50e5d7268c",
@@ -494,6 +508,12 @@
 			"revisionTime": "2017-10-21T01:53:42Z"
 		},
 		{
+			"checksumSHA1": "uT6Q9RdSRAkDjyUgQlJ2XKJRab4=",
+			"path": "github.com/hashicorp/terraform/helper/config",
+			"revision": "47c45788bc07e186b130d024084acd50e5d7268c",
+			"revisionTime": "2017-10-21T01:53:42Z"
+		},
+		{
 			"checksumSHA1": "KNvbU1r5jv0CBeQLnEtDoL3dRtc=",
 			"path": "github.com/hashicorp/terraform/helper/hashcode",
 			"revision": "47c45788bc07e186b130d024084acd50e5d7268c",
@@ -502,6 +522,18 @@
 		{
 			"checksumSHA1": "B267stWNQd0/pBTXHfI/tJsxzfc=",
 			"path": "github.com/hashicorp/terraform/helper/hilmapstructure",
+			"revision": "47c45788bc07e186b130d024084acd50e5d7268c",
+			"revisionTime": "2017-10-21T01:53:42Z"
+		},
+		{
+			"checksumSHA1": "BAXV9ruAyno3aFgwYI2/wWzB2Gc=",
+			"path": "github.com/hashicorp/terraform/helper/logging",
+			"revision": "47c45788bc07e186b130d024084acd50e5d7268c",
+			"revisionTime": "2017-10-21T01:53:42Z"
+		},
+		{
+			"checksumSHA1": "FcseqawEPgboKzuR7HsGegueV5E=",
+			"path": "github.com/hashicorp/terraform/helper/resource",
 			"revision": "47c45788bc07e186b130d024084acd50e5d7268c",
 			"revisionTime": "2017-10-21T01:53:42Z"
 		},
@@ -685,6 +717,12 @@
 			"path": "github.com/ulikunitz/xz/lzma",
 			"revision": "47c45788bc07e186b130d024084acd50e5d7268c",
 			"revisionTime": "2017-10-21T01:53:42Z"
+		},
+		{
+			"checksumSHA1": "f1h7PyBYTnY8DiA8v6CcXS0XwAk=",
+			"path": "github.com/weppos/publicsuffix-go/publicsuffix",
+			"revision": "02da67feae2303670d532c87acaaee5fe852a35b",
+			"revisionTime": "2017-09-11T10:15:44Z"
 		},
 		{
 			"checksumSHA1": "R9ayYqxeUsPcIbs6KXCVwDIdf6M=",

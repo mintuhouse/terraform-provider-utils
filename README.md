@@ -11,11 +11,12 @@ Allow custom functions in terraform
 
 ```sh
 $ go get github.com/mintuhouse/terraform-provider-utils
+$ ln -s $GOPATH/bin/terraform-provider-utils ~/.terraform.d/plugins
 ```
 
 ```
-# For example, restrict template version in 0.1.x
-provider "template" {
+# For example, restrict utils version in 0.1.x
+provider "utils" {
   version = "~> 0.1"
 }
 ```
